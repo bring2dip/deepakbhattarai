@@ -1,0 +1,11 @@
+
+setEnv DB_USER root
+setEnv DB_NAME bedrock
+setEnv DB_HOST localhost
+setEnv DB_PASSWORD hotsamai
+
+setEnv WP_HOME http://localhost/bedrock/
+setEnv WP_SITEURL http://localhost/bedrock/web/wp
+# BEGIN WordPress
+
+# END WordPress
